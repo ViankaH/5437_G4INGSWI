@@ -20,9 +20,7 @@ SET time_zone = "+00:00";
 --
 -- Base de datos: `misdelicias_db`
 --
-
 -- --------------------------------------------------------
-
 --
 -- Estructura de tabla para la tabla `usuarios`
 --
