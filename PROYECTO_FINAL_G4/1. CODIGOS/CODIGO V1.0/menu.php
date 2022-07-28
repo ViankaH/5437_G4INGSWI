@@ -184,14 +184,14 @@
         <footer id="contacto">
         <div class="footer contenedor">
             <div class="marca-logo">
-                <img src="" alt="">
+            <img src="assets/images/logosmall.png" alt="">
             </div>
             <div class="iconos">
                 <i class="fab fa-youtube"></i>
                 <i class="fab fa-facebook-square"></i>
                 <i class="fab fa-github"></i>
             </div>
-            <p>En este perfil amamos a nuestros amigos caninos</p>
+            <p>En este perfil amamos la comida de Mis Delicias.</p>
         </div>
 
     </footer>

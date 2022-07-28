@@ -337,7 +337,8 @@ nav .enlaces a:hover{
 footer{background:url();}
 
 .marca-logo{
-  width: 40%;
+  width: 50%;
+  height: 50%;
   margin: auto;
   margin-bottom: var(--espacios);
 }
