@@ -187,9 +187,10 @@
             <img src="assets/images/logosmall.png" alt="">
             </div>
             <div class="iconos">
-                <i class="fab fa-youtube"></i>
-                <i class="fab fa-facebook-square"></i>
-                <i class="fab fa-github"></i>
+                
+                <a href="https://youtube.com/shorts/G0q21WQO2AY?feature=share" target="_blank"><i class="fab fa-youtube"></i></a>
+                <a href="https://www.facebook.com/wladimir.jami" target="_blank"><i class="fab fa-facebook-square"></i>
+                <a href="https://github.com/ViankaH/5437_G4INGSWI/graphs/contributors" target="_blank"><i class="fab fa-github"></i></a>
             </div>
             <p>En este perfil amamos la comida de Mis Delicias.</p>
         </div>
