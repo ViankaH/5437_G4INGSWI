@@ -27,7 +27,7 @@
                     <a href="#" id="enlace-inicio" class="btn-header">Inicio</a>
                     <a href="#" id="enlace-servicio" class="btn-header">Menú</a>
                     <a href="#" id="enlace-equipo" class="btn-header">Platos fuertes</a>
-                    <a href="#" id="enlace-trabajo" class="btn-header">Postres y bebidas</a>
+                    <!--<a href="#" id="enlace-trabajo" class="btn-header">Postres y bebidas</a>-->
                     <a href="#" id="enlace-contacto" class="btn-header">Contáctanos</a>
                     <a href="index.php" class="btn-header">Salir</a>
                 </div>
@@ -46,7 +46,7 @@
         
         <section class="about" id="servicio">
             <div class="contenedor">
-                <h3>Combos</h3>
+                <h3>Menús Del Día</h3>
                 <p class="after">Disfrálos en familia</p>
                 <div class="servicios">
                     <div class="caja-servicios">
@@ -73,7 +73,7 @@
             <div class="card">
                 <div class="content-card">
                     <div class="people">
-                        <img src="" alt="">
+                        <img src="assets/images/platillo2.jpeg" alt="">
                     </div>
                     <div class="texto-team">
                         <h4>Lomo</h4>
@@ -82,7 +82,7 @@
                 </div>
                 <div class="content-card">
                     <div class="people">
-                        <img src="" alt="">
+                    <img src="assets/images/platillo3.jpeg" alt="">
                     </div>
                     <div class="texto-team">
                         <h4>Milanesa</h4>
@@ -91,91 +91,91 @@
                 </div>
                 <div class="content-card">
                     <div class="people">
-                        <img src="" alt="">
+                    <img src="assets/images/platillo4.jpeg" alt="">
                     </div>
                     <div class="texto-team">
-                        <h4>Churraso</h4>
+                        <h4>Carne Salteada</h4>
                         <p>Acompañado de Papas fritas y ensalada.</p>
                     </div>
                 </div>
                 <div class="content-card">
                     <div class="people">
-                        <img src="" alt="">
+                    <img src="assets/images/platillo5.jpeg" alt="">
                     </div>
                     <div class="texto-team">
-                        <h4>Churraso</h4>
+                        <h4>Estofado de Carne</h4>
+                        <p>Acompañado con arroz y ensalada.</p>
+                    </div>
+                </div>
+                <div class="content-card">
+                    <div class="people">
+                    <img src="assets/images/platillo6.jpeg" alt="">
+                    </div>
+                    <div class="texto-team">
+                        <h4>Costillas</h4>
                         <p>Acompañado de Papas fritas y ensalada.</p>
                     </div>
                 </div>
                 <div class="content-card">
                     <div class="people">
-                        <img src="" alt="">
+                    <img src="assets/images/platillo7.jpeg" alt="">
                     </div>
                     <div class="texto-team">
-                        <h4>Churraso</h4>
+                        <h4>Spaguetti</h4>
                         <p>Acompañado de Papas fritas y ensalada.</p>
                     </div>
                 </div>
                 <div class="content-card">
                     <div class="people">
-                        <img src="" alt="">
+                    <img src="assets/images/platillo8.jpeg" alt="">
                     </div>
                     <div class="texto-team">
-                        <h4>Churraso</h4>
+                        <h4>Apanado</h4>
                         <p>Acompañado de Papas fritas y ensalada.</p>
                     </div>
                 </div>
                 <div class="content-card">
                     <div class="people">
-                        <img src="" alt="">
+                    <img src="assets/images/platillo9.jpeg" alt="">
                     </div>
                     <div class="texto-team">
-                        <h4>Churraso</h4>
+                        <h4>Brochetas</h4>
                         <p>Acompañado de Papas fritas y ensalada.</p>
                     </div>
                 </div>
                 <div class="content-card">
                     <div class="people">
-                        <img src="" alt="">
+                    <img src="assets/images/platillo10.jpeg" alt="">
                     </div>
                     <div class="texto-team">
-                        <h4>Churraso</h4>
+                        <h4>Menestras</h4>
+                        <p>Acompañado con arroz y ensalada.</p>
+                    </div>
+                </div>
+                <div class="content-card">
+                    <div class="people">
+                    <img src="assets/images/platillo11.jpeg" alt="">
+                    </div>
+                    <div class="texto-team">
+                        <h4>Alitas</h4>
                         <p>Acompañado de Papas fritas y ensalada.</p>
                     </div>
                 </div>
                 <div class="content-card">
                     <div class="people">
-                        <img src="" alt="">
+                    <img src="assets/images/platillo12.jpeg" alt="">
                     </div>
                     <div class="texto-team">
-                        <h4>Churraso</h4>
+                        <h4>Pollo frito</h4>
                         <p>Acompañado de Papas fritas y ensalada.</p>
                     </div>
                 </div>
                 <div class="content-card">
                     <div class="people">
-                        <img src="" alt="">
+                    <img src="assets/images/platillo1.jpeg" alt="">
                     </div>
                     <div class="texto-team">
-                        <h4>Churraso</h4>
-                        <p>Acompañado de Papas fritas y ensalada.</p>
-                    </div>
-                </div>
-                <div class="content-card">
-                    <div class="people">
-                        <img src="" alt="">
-                    </div>
-                    <div class="texto-team">
-                        <h4>Churraso</h4>
-                        <p>Acompañado de Papas fritas y ensalada.</p>
-                    </div>
-                </div>
-                <div class="content-card">
-                    <div class="people">
-                        <img src="" alt="">
-                    </div>
-                    <div class="texto-team">
-                        <h4>Churraso</h4>
+                        <h4>Salmón</h4>
                         <p>Acompañado de Papas fritas y ensalada.</p>
                     </div>
                 </div>
