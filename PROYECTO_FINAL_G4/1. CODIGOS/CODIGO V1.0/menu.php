@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU"
         crossorigin="anonymous">
 </head>
+
 <body class="hidden">
     <div class="centrado" id="onload">
         <div class="lds-facebook">
@@ -24,7 +25,7 @@
                 </div>
                 <div class="enlaces" id="enlaces">
                     <a href="#" id="enlace-inicio" class="btn-header">Inicio</a>
-                    <a href="#" id="enlace-servicio" class="btn-header">Combos</a>
+                    <a href="#" id="enlace-servicio" class="btn-header">Menú</a>
                     <a href="#" id="enlace-equipo" class="btn-header">Platos fuertes</a>
                     <a href="#" id="enlace-trabajo" class="btn-header">Postres y bebidas</a>
                     <a href="#" id="enlace-contacto" class="btn-header">Contáctanos</a>
@@ -49,18 +50,18 @@
                 <p class="after">Disfrálos en familia</p>
                 <div class="servicios">
                     <div class="caja-servicios">
-                        <img src="" alt="">
-                        <h4>Combo #1</h4>
+                        <img src="assets/images/menu1.jpeg" alt="">
+                        <h4>Menú #1</h4>
                         <p></p>
                     </div>
                     <div class="caja-servicios">
-                        <img src="" alt="">
-                        <h4>Combo #2</h4>
+                        <img src="assets/images/menu 2.jpeg" alt="">
+                        <h4>Menú #2</h4>
                         <p></p>
                     </div>
                     <div class="caja-servicios">
-                        <img src="" alt="">
-                        <h4>Combo #3</h4>
+                        <img src="assets/images/menu 3.jpeg" alt="">
+                        <h4>Menú #3</h4>
                         <p></p>
                     </div>
                 </div>
