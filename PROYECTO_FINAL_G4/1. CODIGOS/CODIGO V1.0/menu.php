@@ -21,7 +21,7 @@
         <nav id="nav" class="nav1">
             <div class="contenedor-nav">
                 <div class="logo">
-                    <img src="" alt="">
+                <img src="assets/images/logosmall.png" alt="">
                 </div>
                 <div class="enlaces" id="enlaces">
                     <a href="#" id="enlace-inicio" class="btn-header">Inicio</a>
