@@ -99,10 +99,11 @@ header{
   margin: 0px auto;
   align-content: center;
   background: linear-gradient(to bottom,
-  rgb(255, 27, 100),
-  rgba(239, 235, 237, 0.6), 
+  rgb(243, 120, 159),
+  rgba(248, 231, 239, 0.6), 
+  rgba(248, 231, 239, 0.6), 
   rgba(255, 27, 100, 0.1)
-  ), url(../images/fondo.jpeg);
+  ), url(../images/comida2.jpg);
 
   background-position: center;
   background-size: cover;

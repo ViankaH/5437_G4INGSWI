@@ -41,7 +41,7 @@
                     <!--Register-->
                     <form action="php/registro_usuarios.php" method="POST" class="formulario__register" id="formulario">
                         <h2>Registrarse</h2>
-                        <input type="text" placeholder="Nombre Completo" name="nombre" required=""  pattern="[a-zA-Z]+" >
+                        <input type="text" placeholder="Nombre Completo" name="nombre" required="" pattern="[a-zA-Z ]{2,254}">
                         <input type="email" placeholder="Correo Electronico" name="correo" required="" >
                         <input type="text" placeholder="Dirección Entrega" name="direccion" required="">
                         <input type="text" placeholder="Usuario" name="usuario" required="">
