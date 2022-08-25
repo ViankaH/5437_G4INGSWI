@@ -100,6 +100,7 @@ header{
   align-content: center;
   background: linear-gradient(to bottom,
   rgb(243, 120, 159),
+  rgba(243, 120, 159, 0.8), 
   rgba(248, 231, 239, 0.6), 
   rgba(248, 231, 239, 0.6), 
   rgba(255, 27, 100, 0.1)

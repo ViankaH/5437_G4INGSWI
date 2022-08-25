@@ -25,6 +25,7 @@
                         <h3>¿Aún no tienes una cuenta?</h3>
                         <p>Regístrate para que puedas iniciar sesión</p>
                         <button id="btn__registrarse">Regístrarse</button>
+                        <button><a  download="Manual de usuario" href="Manual de Usuario - Sistema de registro de pedidos Mis Delicias.pdf">Guía de uso</a></button>
                     </div>
                 </div>
 
@@ -47,6 +48,7 @@
                         <input type="text" placeholder="Usuario" name="usuario" required="">
                         <input type="password" placeholder="Contraseña" name="contraseña" required="" >
                         <button>Regístrarse</button>
+                        
                     </form>
                 </div>
             </div>
